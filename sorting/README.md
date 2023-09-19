@@ -2,6 +2,7 @@
 	~ selection
 	~ bubble 
 	~ insertion
+ 	~ shell 
 
 # partition based
 	~ merge 
