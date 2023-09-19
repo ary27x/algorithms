@@ -20,7 +20,8 @@ This algorithm usually exploits statistical redundancy to represent data without
 which makes this process reversible. 
 this algorithm is possible because most real world data exhibits statistical redundancy
 
-* RUN LENGTH ENCODING *
+** RUN LENGTH ENCODING **
+  
 This just basically means that if there is an images which contains the following (pixels):
 red , red , red, red, red, .....100 times (say)
 
