@@ -3,6 +3,7 @@
 	~ bubble 
 	~ insertion
  	~ shell 
+  	~ gnome
 
 # partition based
 	~ merge 
