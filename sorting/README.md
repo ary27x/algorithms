@@ -4,6 +4,7 @@
 	~ insertion
  	~ shell 
   	~ gnome
+   	~ cocktail shaker
 
 # partition based
 	~ merge 
