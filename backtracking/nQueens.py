@@ -1,3 +1,5 @@
+# this is a horribly inefficient way to solve this problem , would work on optimizing this problem later
+
 import os
 import sys
 import copy
